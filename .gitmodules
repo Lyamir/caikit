@@ -1,0 +1,9 @@
+[submodule "capstone-blogsite"]
+	path = capstone-blogsite
+	url = https://github.com/Lyamir/capstone-blogsite
+[submodule "capstone-messaging"]
+	path = capstone-messaging
+	url = https://github.com/Lyamir/capstone-messaging
+[submodule "capstone-todolist"]
+	path = capstone-todolist
+	url = https://github.com/Lyamir/capstone-todolist
